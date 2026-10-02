@@ -1,8 +1,8 @@
 class Cosmokit < Formula
   desc "Drive iOS Simulator from command-line, with MCP server for coding agents"
   homepage "https://github.com/maththedev42/cosmokit-cli"
-  url "https://github.com/maththedev42/cosmokit-cli/releases/download/v0.4.2/cosmokit-0.4.2-macos-universal.tar.gz"
-  sha256 "a26b5f796502f11f9546df2db421dca0c0701c5a7e1007b8782b6cf8af660b37"
+  url "https://github.com/maththedev42/cosmokit-cli/releases/download/v0.5.0/cosmokit-0.5.0-macos-universal.tar.gz"
+  sha256 "03bcfd697e4579181220160beff08794c70c2365a92e72b551b9f39b1311c6cb"
   license "MIT"
 
   depends_on :macos
